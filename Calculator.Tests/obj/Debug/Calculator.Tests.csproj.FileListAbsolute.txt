@@ -5,3 +5,4 @@ C:\Calculator\Calculator.Tests\bin\Debug\Calculator.pdb
 C:\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
 C:\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
 C:\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
+C:\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
