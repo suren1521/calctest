@@ -1,11 +1,11 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using NUnit.Framework;
 
 namespace Calculator.Tests
 {
-    [TestClass]
+    [TestFixture]
     public class CalculatorOpTest
     {
-        [TestMethod]
+        [Test]
         public void ShouldAddReturnNineWhenPassFiveandFour()
         {
             // Arrange
@@ -18,7 +18,7 @@ namespace Calculator.Tests
             Assert.AreEqual(9, result);
         }
 
-        [TestMethod]
+        [Test]
         public void ShouldMulReturnTwentyWhenPassFiveandFour()
         {
             // Arrange

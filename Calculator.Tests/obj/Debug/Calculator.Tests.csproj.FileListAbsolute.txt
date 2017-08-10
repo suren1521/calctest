@@ -26,3 +26,5 @@ C:\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.Tes
 C:\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
 C:\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
 C:\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
+C:\Calculator\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Calculator\Calculator.Tests\bin\Debug\nunit.framework.xml
